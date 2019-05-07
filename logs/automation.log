@@ -125,3 +125,108 @@
 13:46:25 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:validate_page_is_logged_out] INFO -- Web Orders Login - Logout validated successfully
 13:46:25 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:embedScreenshot] INFO -- @After - started
 13:46:28 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:embedScreenshot] INFO -- ************* Finished running cucumber scenario -- E2E Regression on login, create order, edit order, delete order and logout *****************
+14:34:54 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:<init>] INFO -- Base steps constructor - started
+14:34:54 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:<init>] INFO -- Base steps constructor - finished
+14:34:54 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:logScenarioStartInfo] INFO -- *********** Started running cucumber scenario -- E2E Regression on login, create order, edit order, delete order and logout ***************
+14:34:55 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:i_navigate_to_login_page] INFO -- http://secure.smartbearsoftware.com/samples/TestComplete11/WebOrders/Login.aspx
+14:34:56 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:i_navigate_to_login_page] INFO -- Get URL successful
+14:34:59 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:i_enter_UserName_Password_and_click_submit] INFO -- Login successful
+14:34:59 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:validate_login_is_successful] INFO -- Web Orders - Login validated successfully
+14:35:00 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:i_click_order] INFO -- Order clicked successfully
+14:35:01 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:enter_order_details] INFO -- Order details entered successfully
+14:35:02 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:click_process] INFO -- Clicked view page successfully
+14:35:02 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:validate_the_new_order_in_the_list] INFO -- Sam John MyMoney 11 05/07/2019 Latrobe Street Melbourne Vic 3008 MasterCard 1234567890123456 12/23 - New order validated successfully
+14:35:02 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:i_click_the_edit] INFO -- Clicked edit successfully
+14:35:03 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:update_the_new_card_number] INFO -- Edited the details successfully
+14:35:03 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:validate_the_update_customer_name_in_the_list] INFO -- Sam John MyMoney 11 05/07/2019 Latrobe Street Melbourne Vic 3008 MasterCard 9876543210123456 12/23 - Validated edited order successfully
+14:35:03 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:i_select_the_order_created] INFO -- Checkbox selected successfully
+14:35:04 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:click_delete_selected] INFO -- Deleted the order successfully
+14:35:04 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:validated_for_the_delected_order] INFO -- Paul Brown ScreenSaver 2 03/12/2010 5, Ringer Street Las Vegas, NV US 748 MasterCard 123456789012 02/07 Validated deleted order successfully
+14:35:04 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:i_click_logout] INFO -- Logged out successfully
+14:35:04 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:validate_page_is_logged_out] INFO -- Web Orders Login - Logout validated successfully
+14:35:04 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:embedScreenshot] INFO -- @After - started
+14:35:07 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:embedScreenshot] INFO -- ************* Finished running cucumber scenario -- E2E Regression on login, create order, edit order, delete order and logout *****************
+14:50:25 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:<init>] INFO -- Base steps constructor - started
+14:50:25 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:<init>] INFO -- Base steps constructor - finished
+14:50:25 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:logScenarioStartInfo] INFO -- *********** Started running cucumber scenario -- E2E Regression on login, create order, edit order, delete order and logout ***************
+14:50:25 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:i_navigate_to_login_page] INFO -- http://secure.smartbearsoftware.com/samples/TestComplete11/WebOrders/Login.aspx
+14:50:27 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:i_navigate_to_login_page] INFO -- Get URL successful
+14:50:28 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:i_enter_UserName_Password_and_click_submit] INFO -- Login successful
+14:50:28 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:validate_login_is_successful] INFO -- Web Orders - Login validated successfully
+14:50:29 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:i_click_order] INFO -- Order clicked successfully
+14:50:30 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:enter_order_details] INFO -- Order details entered successfully
+14:50:30 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:click_process] INFO -- Clicked view page successfully
+14:50:30 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:validate_the_new_order_in_the_list] INFO -- Sam John MyMoney 11 05/07/2019 Latrobe Street Melbourne Vic 3008 MasterCard 1234567890123456 12/23 - New order validated successfully
+14:50:30 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:i_click_the_edit] INFO -- Clicked edit successfully
+14:50:31 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:update_the_new_card_number] INFO -- Edited the details successfully
+14:50:31 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:validate_the_update_customer_name_in_the_list] INFO -- Sam John MyMoney 11 05/07/2019 Latrobe Street Melbourne Vic 3008 MasterCard 9876543210123456 12/23 - Validated edited order successfully
+14:50:31 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:i_select_the_order_created] INFO -- Checkbox selected successfully
+14:50:32 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:click_delete_selected] INFO -- Deleted the order successfully
+14:50:32 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:validated_for_the_delected_order] INFO -- Paul Brown ScreenSaver 2 03/12/2010 5, Ringer Street Las Vegas, NV US 748 MasterCard 123456789012 02/07 Validated deleted order successfully
+14:50:33 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:i_click_logout] INFO -- Logged out successfully
+14:50:33 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:validate_page_is_logged_out] INFO -- Web Orders Login - Logout validated successfully
+14:50:33 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:embedScreenshot] INFO -- @After - started
+14:50:35 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:embedScreenshot] INFO -- ************* Finished running cucumber scenario -- E2E Regression on login, create order, edit order, delete order and logout *****************
+15:25:31 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:<init>] INFO -- Base steps constructor - started
+15:25:31 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:<init>] INFO -- Base steps constructor - finished
+15:25:31 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:logScenarioStartInfo] INFO -- *********** Started running cucumber scenario -- E2E Regression on login, create order, edit order, delete order and logout ***************
+15:25:31 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:i_navigate_to_login_page] INFO -- http://secure.smartbearsoftware.com/samples/TestComplete11/WebOrders/Login.aspx
+15:25:32 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:i_navigate_to_login_page] INFO -- Get URL successful
+15:25:34 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:i_enter_UserName_Password_and_click_submit] INFO -- Login successful
+15:25:34 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:validate_login_is_successful] INFO -- Web Orders - Login validated successfully
+15:25:34 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:i_click_order] INFO -- Order clicked successfully
+15:25:36 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:enter_order_details] INFO -- Order details entered successfully
+15:25:36 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:click_process] INFO -- Clicked view page successfully
+15:25:36 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:validate_the_new_order_in_the_list] INFO -- Sam John MyMoney 11 05/07/2019 Latrobe Street Melbourne Vic 3008 MasterCard 1234567890123456 12/23 - New order validated successfully
+15:25:37 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:i_click_the_edit] INFO -- Clicked edit successfully
+15:25:37 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:update_the_new_card_number] INFO -- Edited the details successfully
+15:25:38 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:validate_the_update_customer_name_in_the_list] INFO -- Sam John MyMoney 11 05/07/2019 Latrobe Street Melbourne Vic 3008 MasterCard 9876543210123456 12/23 - Validated edited order successfully
+15:25:38 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:i_select_the_order_created] INFO -- Checkbox selected successfully
+15:25:38 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:click_delete_selected] INFO -- Deleted the order successfully
+15:25:38 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:validated_for_the_delected_order] INFO -- Paul Brown ScreenSaver 2 03/12/2010 5, Ringer Street Las Vegas, NV US 748 MasterCard 123456789012 02/07 Validated deleted order successfully
+15:25:39 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:i_click_logout] INFO -- Logged out successfully
+15:25:39 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:validate_page_is_logged_out] INFO -- Web Orders Login - Logout validated successfully
+15:25:39 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:embedScreenshot] INFO -- @After - started
+15:25:41 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:embedScreenshot] INFO -- ************* Finished running cucumber scenario -- E2E Regression on login, create order, edit order, delete order and logout *****************
+15:31:08 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:<init>] INFO -- Base steps constructor - started
+15:31:08 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:<init>] INFO -- Base steps constructor - finished
+15:31:08 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:logScenarioStartInfo] INFO -- *********** Started running cucumber scenario -- E2E Regression on login, create order, edit order, delete order and logout ***************
+15:31:08 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:i_navigate_to_login_page] INFO -- http://secure.smartbearsoftware.com/samples/TestComplete11/WebOrders/Login.aspx
+15:31:09 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:i_navigate_to_login_page] INFO -- Get URL successful
+15:31:10 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:i_enter_UserName_Password_and_click_submit] INFO -- Login successful
+15:31:10 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:validate_login_is_successful] INFO -- Web Orders - Login validated successfully
+15:31:11 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:i_click_order] INFO -- Order clicked successfully
+15:31:12 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:enter_order_details] INFO -- Order details entered successfully
+15:31:12 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:click_process] INFO -- Clicked view page successfully
+15:31:12 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:validate_the_new_order_in_the_list] INFO -- Sam John MyMoney 11 05/07/2019 Latrobe Street Melbourne Vic 3008 MasterCard 1234567890123456 12/23 - New order validated successfully
+15:31:13 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:i_click_the_edit] INFO -- Clicked edit successfully
+15:31:13 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:update_the_new_card_number] INFO -- Edited the details successfully
+15:31:13 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:validate_the_update_customer_name_in_the_list] INFO -- Sam John MyMoney 11 05/07/2019 Latrobe Street Melbourne Vic 3008 MasterCard 9876543210123456 12/23 - Validated edited order successfully
+15:31:14 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:i_select_the_order_created] INFO -- Checkbox selected successfully
+15:31:14 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:click_delete_selected] INFO -- Deleted the order successfully
+15:31:14 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:validated_for_the_delected_order] INFO -- Paul Brown ScreenSaver 2 03/12/2010 5, Ringer Street Las Vegas, NV US 748 MasterCard 123456789012 02/07 Validated deleted order successfully
+15:31:15 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:i_click_logout] INFO -- Logged out successfully
+15:31:15 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:validate_page_is_logged_out] INFO -- Web Orders Login - Logout validated successfully
+15:31:15 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:embedScreenshot] INFO -- @After - started
+15:31:17 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:embedScreenshot] INFO -- ************* Finished running cucumber scenario -- E2E Regression on login, create order, edit order, delete order and logout *****************
+15:31:48 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:<init>] INFO -- Base steps constructor - started
+15:31:48 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:<init>] INFO -- Base steps constructor - finished
+15:31:48 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:logScenarioStartInfo] INFO -- *********** Started running cucumber scenario -- E2E Regression on login, create order, edit order, delete order and logout ***************
+15:31:48 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:i_navigate_to_login_page] INFO -- http://secure.smartbearsoftware.com/samples/TestComplete11/WebOrders/Login.aspx
+15:31:49 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:i_navigate_to_login_page] INFO -- Get URL successful
+15:31:51 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:i_enter_UserName_Password_and_click_submit] INFO -- Login successful
+15:31:51 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:validate_login_is_successful] INFO -- Web Orders - Login validated successfully
+15:31:51 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:i_click_order] INFO -- Order clicked successfully
+15:31:52 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:enter_order_details] INFO -- Order details entered successfully
+15:31:52 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:click_process] INFO -- Clicked view page successfully
+15:31:53 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:validate_the_new_order_in_the_list] INFO -- Sam John MyMoney 11 05/07/2019 Latrobe Street Melbourne Vic 3008 MasterCard 1234567890123456 12/23 - New order validated successfully
+15:31:53 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:i_click_the_edit] INFO -- Clicked edit successfully
+15:31:53 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:update_the_new_card_number] INFO -- Edited the details successfully
+15:31:54 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:validate_the_update_customer_name_in_the_list] INFO -- Sam John MyMoney 11 05/07/2019 Latrobe Street Melbourne Vic 3008 MasterCard 9876543210123456 12/23 - Validated edited order successfully
+15:31:54 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:i_select_the_order_created] INFO -- Checkbox selected successfully
+15:31:54 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:click_delete_selected] INFO -- Deleted the order successfully
+15:31:54 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:validated_for_the_delected_order] INFO -- Paul Brown ScreenSaver 2 03/12/2010 5, Ringer Street Las Vegas, NV US 748 MasterCard 123456789012 02/07 Validated deleted order successfully
+15:31:55 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:i_click_logout] INFO -- Logged out successfully
+15:31:55 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:validate_page_is_logged_out] INFO -- Web Orders Login - Logout validated successfully
+15:31:55 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:embedScreenshot] INFO -- @After - started
+15:31:57 [Thread:main] [Class:com.automationChallenge.cucumber.stepDefinition.BaseSteps] [Method:embedScreenshot] INFO -- ************* Finished running cucumber scenario -- E2E Regression on login, create order, edit order, delete order and logout *****************

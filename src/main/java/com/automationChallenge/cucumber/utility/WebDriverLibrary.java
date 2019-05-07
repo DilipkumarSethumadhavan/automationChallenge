@@ -37,9 +37,9 @@ public class WebDriverLibrary {
 			if(browser.equalsIgnoreCase("firefox")) {
 				System.setProperty("webdriver.gecko.driver",FrameworkConfig.geckoDriverPath);
 				driver = new FirefoxDriver();
-			}else if (browser.equalsIgnoreCase("chrome")) {
+			}else if(browser.equalsIgnoreCase("chrome")){
 				System.setProperty("webdriver.chrome.driver",FrameworkConfig.chromeDriverPath);
-				driver = new ChromeDriver(new ChromeDriverService.Builder().withSilent(true).build());
+				driver = new ChromeDriver();
 			}
 			driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 			driver.manage().window().maximize();
