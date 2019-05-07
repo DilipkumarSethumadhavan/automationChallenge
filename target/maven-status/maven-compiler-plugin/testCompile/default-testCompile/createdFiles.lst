@@ -1,0 +1,3 @@
+com\automationChallenge\cucumber\stepDefinition\AutomationChallenge.class
+com\automationChallenge\cucumber\stepDefinition\BaseSteps.class
+com\automationChallenge\cucumber\runner\AutomationChallengeTest.class

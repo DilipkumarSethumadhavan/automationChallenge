@@ -1,0 +1,236 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 8804157066,
+              "status": "passed"
+            },
+            "match": {
+              "location": "BaseSteps.logScenarioStartInfo(Scenario)"
+            }
+          }
+        ],
+        "line": 4,
+        "name": "E2E Regression on login, create order, edit order, delete order and logout",
+        "description": "",
+        "id": "automation-challenge;e2e-regression-on-login,-create-order,-edit-order,-delete-order-and-logout",
+        "after": [
+          {
+            "result": {
+              "duration": 2094182283,
+              "status": "passed"
+            },
+            "match": {
+              "location": "BaseSteps.embedScreenshot(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 1825690114,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I navigate to login page",
+            "match": {
+              "location": "AutomationChallenge.i_navigate_to_login_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1274561763,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I enter UserName Password and click submit",
+            "match": {
+              "location": "AutomationChallenge.i_enter_UserName_Password_and_click_submit()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 13237012,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Validate login is successful",
+            "match": {
+              "location": "AutomationChallenge.validate_login_is_successful()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 612142075,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I click order",
+            "match": {
+              "location": "AutomationChallenge.i_click_order()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 868254054,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "Enter order details",
+            "match": {
+              "location": "AutomationChallenge.enter_order_details()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 341499110,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "click view all orders",
+            "match": {
+              "location": "AutomationChallenge.click_process()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 190652971,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "Validate the new order in the list",
+            "match": {
+              "location": "AutomationChallenge.validate_the_new_order_in_the_list()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 334318766,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "I click the edit",
+            "match": {
+              "location": "AutomationChallenge.i_click_the_edit()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 448520026,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "Update the new card number and click update",
+            "match": {
+              "location": "AutomationChallenge.update_the_new_card_number()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 177174193,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "Validate the update customer details in the list",
+            "match": {
+              "location": "AutomationChallenge.validate_the_update_customer_name_in_the_list()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 225146675,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "I select the order created",
+            "match": {
+              "location": "AutomationChallenge.i_select_the_order_created()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 327778567,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "Click delete selected",
+            "match": {
+              "location": "AutomationChallenge.click_delete_selected()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 141760946,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "Validated for the delected order",
+            "match": {
+              "location": "AutomationChallenge.validated_for_the_delected_order()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 823365977,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "I click logout",
+            "match": {
+              "location": "AutomationChallenge.i_click_logout()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 26901295,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "Validate page is logged out",
+            "match": {
+              "location": "AutomationChallenge.validate_page_is_logged_out()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 3,
+            "name": "@important"
+          }
+        ]
+      }
+    ],
+    "name": "Automation Challenge",
+    "description": "",
+    "id": "automation-challenge",
+    "keyword": "Feature",
+    "uri": "src/test/resources/com.automationChallenge.cucumber.feature/AutoChallenge.feature",
+    "tags": [
+      {
+        "line": 1,
+        "name": "@automationChallenge"
+      }
+    ]
+  }
+]
